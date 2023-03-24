@@ -1,5 +1,6 @@
 <h1>Projeto Loja Fatec </h1> 
-
+<h2>Fatec Diadema - Luigi Papaiz</h2>
+<h2>Desenvolvimento de Software Multiplataforma</h2>
 <p>Alunos:</p>
 <p>Níkolas Yan de Oliveira Costa</p>
 <p>Víctor dos Santos Viana</p>
