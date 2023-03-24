@@ -5,6 +5,7 @@
 <p>Níkolas Yan de Oliveira Costa</p>
 <p>Víctor dos Santos Viana</p>
 <hr>
+<h3>REQUISITOS DA ATIVIDADE:</h3>
 <p>Complementar o projeto da Loja Fatec (ja em desenvolvimento) para o receber por caminho
 o nome do departamento e com o metodo Factory Method, criar a classe correspondente e
 chamar o template do tema correspondente.</p>
